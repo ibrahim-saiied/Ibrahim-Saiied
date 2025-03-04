@@ -1,4 +1,10 @@
+<div align="center">  
+  
 # 👋 Hi, I'm Ibrahim!
+</div>
+
+<p align="center"><img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/></p>
+
 👩🏻‍💻 Data Analyst from Egypt building my Carear in Data Analysis step at a time.<br/>
 👩🏻‍🎓 Studied Scienc at Helwan University, Cairo<br/>
 🌱 I’m currently learning Python <br/>
@@ -11,7 +17,9 @@
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/2dfbdac4-188f-48da-872d-a80cc9a78203"/>
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/85edc334-ad3e-432b-b3ce-06dd1cf8e822"/><br/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/85edc334-ad3e-432b-b3ce-06dd1cf8e822"/>
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/a57dc43b-7c4f-48f4-8387-d90907853771"/><br/>
 
 
 
