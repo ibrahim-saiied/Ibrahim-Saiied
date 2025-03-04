@@ -6,7 +6,7 @@
 <p align="center"><img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/></p>
 
 👩🏻‍💻 Data Analyst from Egypt building my Carear in Data Analysis step at a time.<br/>
-👩🏻‍🎓 Studied Scienc at Helwan University, Cairo<br/>
+👩🏻‍🎓 Studied Science at Helwan University, Cairo<br/>
 🌱 I’m currently learning Python <br/>
 
 
