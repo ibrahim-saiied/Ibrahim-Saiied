@@ -85,7 +85,7 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/a57dc43b-7c4f-48f4-8387-d90907853771"/><br/>
 
 
-## Find me
+## 🙋🏻‍♂️ Find me
 
 <a href="https://www.linkedin.com/in/ibrahim-saiied-data-analyst"><img align="left" alt="Java" width="30px"  style="padding-right:10px;" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Badge"></a>
 
