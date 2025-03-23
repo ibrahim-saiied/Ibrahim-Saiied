@@ -3,7 +3,7 @@
 
 <img align="right" width='400' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 &nbsp;
-<br><br><br>
+<br><br>
 <h3 align="left">👩‍💻  About Me</h3>
 
 <!--<div align="center">  
@@ -13,9 +13,10 @@
 
 <p align="center"><img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/></p> -->
 
-👩🏻‍💻 Data Analyst from Egypt building my Carear in Data Analysis step at a time.<br/>
-👩🏻‍🎓 Studied Science at Helwan University, Cairo<br/>
-🌱 I’m currently learning Python <br/>
+- 👩🏻‍💻 **Data Analyst building my Carear step at a time.**<br/>
+- 👩🏻‍🎓 **Studied Science at Helwan University, Cairo.**<br/>
+- 🌱 **I’m currently learning Python.**<br/>
+- 📄 **Know about my experiences:** [**MY CV**](https://drive.google.com/file/d/1R2INU4VLnVdR_0DloDx-buTLLFXCXRCn/view?usp=drive_link)
 
 <br><br><br><br>
 
