@@ -1,17 +1,79 @@
-<div align="center">  
+<h1 align="center">Hi 👋, I'm Ibrahim!</h1>
+<h3 align="center">Data Analyst</h3>
+
+<img align="right" width='400' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+&nbsp;
+<br><br><br>
+<h3 align="left">👩‍💻  About Me</h3>
+
+<!--<div align="center">  
   
 # 👋 Hi, I'm Ibrahim!
 </div>
 
-<p align="center"><img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/></p>
+<p align="center"><img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/></p> -->
 
 👩🏻‍💻 Data Analyst from Egypt building my Carear in Data Analysis step at a time.<br/>
 👩🏻‍🎓 Studied Science at Helwan University, Cairo<br/>
 🌱 I’m currently learning Python <br/>
 
+<br><br><br><br>
 
 
-## 🧰 Tools
+## 🚀 Latest Projects  
+
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 0;">
+  <tr>  
+    <td align="center" style="border: 0;"> <!-- Project 1 -->
+      <a href="https://github.com/ibrahim-saiied/Hotel-Hospitality-Analysis_Power-Bi" style="text-decoration: none;">
+        <img src="https://github.com/user-attachments/assets/b8cbeeef-942f-4db5-b781-a95d160fa329" width="170px" style="border-radius: 5px;" />
+      </a>
+      <br>
+      <strong style="color: white; font-size: 14px;">Hotel Hospitality Analysis Power-Bi</strong>
+    </td>
+    <td align="center" style="border: 0;"> <!-- Project 2 -->
+      <a href="https://github.com/ibrahim-saiied/Supply-Chain-Analysis_Power-Bi" style="text-decoration: none;">
+        <img src="https://github.com/user-attachments/assets/65303d11-0c9e-4093-8c22-fa4582861c7b" width="170px" style="border-radius: 5px;" />
+      </a>
+      <br>
+      <strong style="color: white; font-size: 14px;">Supply Chain Analysis - Power Bi</strong>
+    </td>
+    <!--<td align="center" style="border: 0;"> <!-- Project 2 
+      <a href="https://github.com/ibrahim-saiied/Hotel-Hospitality-Analysis_Power-Bi" style="text-decoration: none;">
+        <img src="https://github.com/user-attachments/assets/b8cbeeef-942f-4db5-b781-a95d160fa329" width="170px" style="border-radius: 5px;" />
+      </a>
+      <br>
+      <strong style="color: white; font-size: 14px;">Hotel Hospitality Analysis Power-Bi</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: 0;">
+      <a href="https://github.com/ibrahim-saiied/Hotel-Hospitality-Analysis_Power-Bi" style="text-decoration: none;">
+        <img src="https://github.com/user-attachments/assets/b8cbeeef-942f-4db5-b781-a95d160fa329" width="170px" style="border-radius: 5px;" />
+      </a>
+      <br>
+      <strong style="color: white; font-size: 14px;">Hotel Hospitality Analysis Power-Bi</strong>
+    </td>
+    <td align="center" style="border: 0;">
+      <a href="https://github.com/ibrahim-saiied/Hotel-Hospitality-Analysis_Power-Bi" style="text-decoration: none;">
+        <img src="https://github.com/user-attachments/assets/b8cbeeef-942f-4db5-b781-a95d160fa329" width="170px" style="border-radius: 5px;" />
+      </a>
+      <br>
+      <strong style="color: white; font-size: 14px;">Hotel Hospitality Analysis Power-Bi</strong>
+    </td>
+    <td align="center" style="border: 0;">
+      <a href="https://github.com/ibrahim-saiied/Hotel-Hospitality-Analysis_Power-Bi" style="text-decoration: none;">
+        <img src="https://github.com/user-attachments/assets/b8cbeeef-942f-4db5-b781-a95d160fa329" width="170px" style="border-radius: 5px;" />
+      </a>
+      <br>
+      <strong style="color: white; font-size: 14px;">Hotel Hospitality Analysis Power-Bi</strong>
+    </td>-->
+  </tr>
+</table>
+
+
+
+## 🧰 My Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/07c5b637-bb8a-4184-86b7-285f8dcf43f9"/>
 
@@ -22,8 +84,7 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/a57dc43b-7c4f-48f4-8387-d90907853771"/><br/>
 
 
-
-## Find me on
+## Find me
 
 <a href="https://www.linkedin.com/in/ibrahim-saiied-data-analyst"><img align="left" alt="Java" width="30px"  style="padding-right:10px;" src="https://github.com/user-attachments/assets/67e1d178-5ead-4bff-a92c-02c1e21e8c57" alt="LinkedIn Badge"></a>
 
