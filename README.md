@@ -87,7 +87,7 @@
 
 ## Find me
 
-<a href="https://www.linkedin.com/in/ibrahim-saiied-data-analyst"><img align="left" alt="Java" width="30px"  style="padding-right:10px;" src="https://github.com/user-attachments/assets/67e1d178-5ead-4bff-a92c-02c1e21e8c57" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/ibrahim-saiied-data-analyst"><img align="left" alt="Java" width="30px"  style="padding-right:10px;" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Badge"></a>
 
 <a href="https://www.novypro.com/profile_about/ibrahim-saiied-1">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/b5942625-e9f8-4c28-83ae-1b5899d0db9b"></a>
