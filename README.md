@@ -16,7 +16,7 @@
 - 👩🏻‍💻 **Data Analyst building my Carear step at a time.**<br/>
 - 👩🏻‍🎓 **Studied Science at Helwan University, Cairo.**<br/>
 - 🌱 **I’m currently learning Python.**<br/>
-- 📄 **Know about my experiences:** [**MY CV**](https://drive.google.com/file/d/1R2INU4VLnVdR_0DloDx-buTLLFXCXRCn/view?usp=drive_link)
+- 📄 **Know about my experiences:** [**MY CV**](https://drive.google.com/file/d/1AEyiD0Vex3TDzKaWuXPTG_gWSnzrpy3e/view?usp=sharing)
 
 <br><br><br><br>
 
