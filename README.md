@@ -27,21 +27,21 @@
   <tr>  
     <td align="center" style="border: 0;"> <!-- Project 1 -->
       <a href="https://github.com/ibrahim-saiied/Hotel-Hospitality-Analysis_Power-Bi" style="text-decoration: none;">
-        <img src="https://github.com/user-attachments/assets/b8cbeeef-942f-4db5-b781-a95d160fa329" width="170px" style="border-radius: 5px;" align="bottom" />
+        <img src="https://github.com/user-attachments/assets/b8cbeeef-942f-4db5-b781-a95d160fa329" width="200px" height="170" style="border-radius: 5px;" align="bottom" />
       </a>
       <br>
       <strong style="color: white; font-size: 14px;">Hotel Hospitality Analysis Power-Bi</strong>
     </td>
     <td align="center" style="border: 0;"> <!-- Project 2 -->
       <a href="https://github.com/ibrahim-saiied/Supply-Chain-Analysis_Power-Bi" style="text-decoration: none;">
-        <img src="https://github.com/user-attachments/assets/65303d11-0c9e-4093-8c22-fa4582861c7b" width="170px" style="border-radius: 5px;" align="bottom" />
+        <img src="https://github.com/user-attachments/assets/65303d11-0c9e-4093-8c22-fa4582861c7b" width="200px" height="170" style="border-radius: 5px;" align="bottom" />
       </a>
       <br>
       <strong style="color: white; font-size: 14px;">Supply Chain Analysis - Power Bi</strong>
     </td>
      <td align="center" style="border: 0;"> <!-- Project 3 -->
       <a href="https://github.com/ibrahim-saiied/Call-Center-Analysis_Excel" style="text-decoration: none;">
-        <img src="https://github.com/user-attachments/assets/d5afe4e2-8474-417b-9873-0321c6e6aa9e" width="270px" style="border-radius: 20px;" align="bottom" />
+        <img src="https://github.com/user-attachments/assets/e834d66d-b323-411a-9334-b54ebac1c689" width="250px" height="170" style="border-radius: 5px;" align="bottom" />
       </a>
       <br>
       <strong style="color: white; font-size: 14px;">Call Center Analysis - Excel</strong>
